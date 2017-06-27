@@ -1,0 +1,31 @@
+.row{
+	margin:0;
+	padding:0;}
+
+body{
+	background-color:black;}
+	
+.boton{
+	margin:7px 0px;}	
+
+.icon{
+	margin-top:50%;
+	}
+		
+.barra-superior{
+  min-height: 4rem;
+}
+
+.tur{
+	margin-top:10px;}
+
+.ll{
+	margin-top:8%;}
+	
+
+
+.fondo2{
+	background-image:url(../img/fondoTurismo.jpg);
+	 background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom; }	

@@ -1,0 +1,69 @@
+body {
+    /* Ubicación de la imagen */
+
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/8e/f6/da/8ef6da51e6e17e9b1b6079757c3f3f11.jpg");
+
+    /* Para dejar la imagen de fondo centrada, vertical y
+    horizontalmente */
+
+    background-position: center center;
+
+    /* Para que la imagen de fondo no se repita */
+    background-repeat: no-repeat;
+
+    /* La imagen se fija en la ventana de visualización para que la altura de la imagen no supere a la del contenido */
+
+    background-attachment: fixed;
+
+    /* La imagen de fondo se reescala automáticamente con el cambio del ancho de ventana del navegador */
+
+    background-size: cover;
+
+    /* Se muestra un color de fondo mientras se está cargando la imagen
+    de fondo o si hay problemas para cargarla */
+
+    background-color: #000000;
+}
+
+.icono-social {
+    width: 100%;
+    padding: 5%;
+    margin: 10%;
+}
+.avatar{
+    padding: 10%;
+}
+.card .card-title{
+    margin: auto;
+}
+.img-turismo {
+    width: 100%;
+}
+
+.sociales {
+    /*width: 100%;*/
+    /*height: 25%;*/
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.44);
+}
+
+.nav-color {
+    background-color: rgba(0, 0, 0, 0.64);
+}
+
+.imagen-nav {
+    margin-top: 10px;
+}
+
+.logo {
+    color: white;
+}
+
+@media (max-width: 770px) {
+    nav .nav-title {
+        margin-top: 4%;
+        font-size: 18px;
+    }
+}
