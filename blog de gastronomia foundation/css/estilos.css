@@ -1,8 +1,24 @@
-.slogan{
-    min-height: 4rem
+.cocina{
+    background-color:darkslateblue
+}
+.secondary{
+    text-transform: capitalize;
+    color: white!important;
+    background-color: darkslateblue !important;
+}
 }
 .galeria img{
     height: 6rem;
     width: 15rem;
     padding-top:15px
+}
+}
+.callout img{
+    width: 100%;
+}
+.comentaristas img{
+    width: 7rem
+}
+.imagenreceta{
+    width: 100%
 }
